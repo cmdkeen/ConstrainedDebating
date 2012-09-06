@@ -1,3 +1,13 @@
+%-----------------------------------------------------------------------------%
+% World University Debating Championship Draw
+%
+% Sep 2012; Chris Hawkins
+%
+% Draw positions in rooms for teams in a debating competition such that teams
+% of similar ability face each other, whilst minimising repeated positions across
+% rounds.
+%-----------------------------------------------------------------------------%
+
 include "globals.mzn";
 
 % (with data file)
